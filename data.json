@@ -1173,8 +1173,7 @@
     "BATTLES": "≤40",
     "TECHS": "≥40",
     "DECODE": "≥16",
-    "QUOTA": "5",
-	"How to unlock": "Defeat Sora Takenouchi twice in the Coliseum"
+    "QUOTA": "5"
   },
      "Gigadramon": {
     "HP": "2300",
@@ -1749,8 +1748,7 @@
     "BATTLES": "≥40",
     "TECHS": "≥40",
     "DECODE": "≥16",
-    "QUOTA": "7",
-	"How to unlock": "Defeat Takato Matsuda thrice in the Coliseum"
+    "QUOTA": "7"
   },
      "Dukemon X-Antibody": {
     "Special Condition": "Use X-Program on Dukemon"
@@ -1922,8 +1920,7 @@
     "BATTLES": "-",
     "TECHS": "≥40",
     "DECODE": "≥16",
-    "QUOTA": "6",
-	"How to unlock": "Defeat Yamato Ishida twice in the Coliseum"
+    "QUOTA": "6"
   },
      "MetalSeadramon": {
     "HP": "-",
@@ -2239,8 +2236,7 @@
     "BATTLES": "≥40",
     "TECHS": "≥40",
     "DECODE": "≥16",
-    "QUOTA": "8",
-	"How to unlock": "Defeat Taichi Yagami twice in the Coliseum"
+    "QUOTA": "8"
   },
      "WarGreymon X-Antibody": {
     "Special Condition": "Use X-Program on WarGreymon"
